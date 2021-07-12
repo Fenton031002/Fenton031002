@@ -1,5 +1,5 @@
-Hi, I’m Fenton
-I am studying Software Engineering in Queen's University Belfast
+Hi, I’m Fenton.
+I am studying Software Engineering in Queen's University Belfast.
 You can contact me for inquiries on my projects - bryan.fenton.joseph@outlook.com
 
 <!---
